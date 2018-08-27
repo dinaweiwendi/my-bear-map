@@ -1,0 +1,1 @@
+I am late because I always stuck on A* algorithm. I also didn't start early. I have tried very hard for debugging this searching shortest path and I am still stuck now. I hope I can solve this problem in tomorrow's lab session.
